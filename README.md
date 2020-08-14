@@ -1,4 +1,4 @@
-# number_guessing_game
+# Number_Guessing_Game
 
 Creating a simple number guessing game using conditions and DOM manipulation.
 
